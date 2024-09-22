@@ -11,7 +11,7 @@ This project explores the dynamics of a ball placed on a wire shaped like a para
 
 # Key Features:
 
-_**Lagrange Multiplier Method:** _This method is used to derive the equations of motion for a system under constraints, forming the core of the project.
+_**Lagrange Multiplier Method:**_ This method is used to derive the equations of motion for a system under constraints, forming the core of the project.
 
 _**Constraint Stabilization:**_ The system of equations is transformed using this method to stabilize the constraints and ensure physically meaningful solutions.
 
